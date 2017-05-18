@@ -35,8 +35,8 @@
 		<ul class="sidebar-menu">
 			<li class="active"><a href="dashboard"><i class="fa fa-link"></i>
 					<span>Dashboard</span></a></li>
-					<li class="active"><a href="adminusermgmt"><i class="fa fa-link"></i>
-					<span>User Management</span></a></li>
+					<!--<li class="active"><a href="adminusermgmt"><i class="fa fa-link"></i>
+					<span>User Management</span></a></li>-->
 					<!-- <li class="treeview"><a href="adminusermgmt"><i class="fa fa-link"></i>
 					<span>User Management</span> <i class="fa fa-angle-left pull-right"></i></a>
 				 <ul class="treeview-menu">
@@ -46,8 +46,8 @@
 					<li><a href="assessmentsettings">Assessment Test Inventory Settings</a></li> 
 					</ul>
 					</li> -->
-					<li class="active"><a href="assessment"><i class="fa fa-link"></i>
-					<span>Assessment Test Inventory</span></a></li>
+					<!-- <li class="active"><a href="assessment"><i class="fa fa-link"></i>
+					<span>Assessment Test Inventory</span></a></li>-->
 					 <!-- <li class="treeview"><a href="#"><i class="fa fa-link"></i>
 					<span>Assessment Test Inventory</span> <i class="fa fa-angle-left pull-right"></i></a>
 					<ul class="treeview-menu">
@@ -56,8 +56,8 @@
 					<li><a href="assessmentshare">Assessment Test Inventory Share</a></li>
 					<li><a href="assessmentsettings">Assessment Test Inventory Settings</a></li>
 					</ul></li> -->
-					<li class="active"><a href="accessmgmt"><i class="fa fa-link"></i>
-					<span>GDII Access Management</span></a></li>
+					<!--<li class="active"><a href="accessmgmt"><i class="fa fa-link"></i>
+					<span>GDII Access Management</span></a></li>-->
 					<!-- <li class="treeview"><a href="#"><i class="fa fa-link"></i>
 					<span>GDII Access Management</span> <i class="fa fa-angle-left pull-right"></i></a>
 					<ul class="treeview-menu">
@@ -67,8 +67,8 @@
 					</ul></li> -->
 					<li class="active"><a href="usermangement"><i class="fa fa-link"></i>
 					<span>Organization Management</span></a></li>
-					<li class="active"><a href="#"><i class="fa fa-link"></i>
-					<span>settings</span></a></li>
+					<!--<li class="active"><a href="#"><i class="fa fa-link"></i>
+					<span>settings</span></a></li>-->
 			
 			
 
